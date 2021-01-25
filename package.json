@@ -1,0 +1,19 @@
+{
+  "name": "addstuff-enra",
+  "version": "1.0.0",
+  "description": "```\r npm i {projectName}\r ```",
+  "main": "addStuff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaauWhoAsked/addStuff.git"
+  },
+  "author": "Maximilian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaauWhoAsked/addStuff/issues"
+  },
+  "homepage": "https://github.com/RaauWhoAsked/addStuff#readme"
+}
